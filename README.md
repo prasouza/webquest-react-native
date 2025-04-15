@@ -27,8 +27,3 @@ Os alunos serão avaliados pelos seguintes critérios:
 
 ## 🏁 Conclusão
 Ao final, os grupos devem criar um **app integrando todas as navegações** e refletir sobre a importância do design de navegação para a experiência do usuário.
-
----
-
-### **3. Criar Pastas Organizadoras**
-Para deixar o repositório mais organizado, crie pastas como:
