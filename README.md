@@ -20,6 +20,7 @@ Cada grupo deverá desenvolver um pequeno app no Expo Router, utilizando os padr
 
 ## 📊 Avaliação
 Os alunos serão avaliados pelos seguintes critérios:
+
 ✅ Implementação correta da navegação  
 ✅ Documentação detalhada do processo  
 ✅ Criatividade na interface do app  
